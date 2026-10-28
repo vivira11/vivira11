@@ -28,3 +28,10 @@ Always learning, exploring, and taking new steps toward a career in tech. 🌷
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-EC8FB0?style=for-the-badge&logo=adobelightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-E8A0BF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-DB7093?style=for-the-badge&logo=canva&logoColor=white)
+
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/92/00/21/920021a6bf546289dc4d9234e0d84ef0.gif" width="300" alt="Cute aesthetic GIF" />
+</p>
