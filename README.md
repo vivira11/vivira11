@@ -12,7 +12,6 @@ I’m interested in technology and software development. I’m currently working
 ![](https://streak-stats.demolab.com/?user=vivira11&theme=rose&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vivira11&theme=rose&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=vivira11&icon=9&color=10)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
