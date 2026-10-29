@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17131F,100:DB7093&height=170&section=header&text=better%20code,%20brighter%20future&fontSize=27&fontColor=FFFFFF&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17131F,100:DB7093&height=170&section=header" width="100%" />
 
 # 🎀 Vitoria Rodrigues Alves
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 💗 About Me
+## 💕 About Me
 
 I'm interested in technology and software development. I'm currently working as a Young Apprentice while developing my professional skills, and I'm studying Systems Analysis and Development (ADS), exploring programming, software development, and new technologies.
 
