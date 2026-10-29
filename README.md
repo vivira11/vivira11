@@ -1,13 +1,8 @@
 
 <div align="center">
+<img width="2091" height="752" alt="banner-gatinhos png" src="https://github.com/user-attachments/assets/0bc4d87b-b8c9-4999-8db3-0b2529a98d49" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17131F,100:DB7093&height=170&section=header" width="100%" />
-
-# 🎀 Vitoria Rodrigues Alves
-
-### ADS Student | Software Developer
-
-*♡ small steps, big dreams ♡*
 
 </div>
 
